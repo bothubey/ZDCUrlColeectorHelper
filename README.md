@@ -15,7 +15,7 @@
 ## 🔍 Check Session Health
 
 ```bash
-/home/bittu/Desktop/ZDCURLCOLEECTOR/venv/bin/python -m app.tools.check_sessions
+/home/bittu/Desktop/ZDCURLCOLEECTOR/check_sessions.sh
 ```
 
 * Valid sessions
@@ -29,25 +29,25 @@
 ### Instagram
 
 ```bash
-/home/bittu/Desktop/ZDCURLCOLEECTOR/venv/bin/python -m app.tools.login_helper instagram
+/home/bittu/Desktop/ZDCURLCOLEECTOR/login_helper.sh instagram
 ```
 
 ### Facebook
 
 ```bash
-/home/bittu/Desktop/ZDCURLCOLEECTOR/venv/bin/python -m app.tools.login_helper facebook
+/home/bittu/Desktop/ZDCURLCOLEECTOR/login_helper.sh facebook
 ```
 
 ### LinkedIn
 
 ```bash
-/home/bittu/Desktop/ZDCURLCOLEECTOR/venv/bin/python -m app.tools.login_helper linkedin
+/home/bittu/Desktop/ZDCURLCOLEECTOR/login_helper.sh linkedin
 ```
 
 ### Pinterest
 
 ```bash
-/home/bittu/Desktop/ZDCURLCOLEECTOR/venv/bin/python -m app.tools.login_helper pinterest
+/home/bittu/Desktop/ZDCURLCOLEECTOR/login_helper.sh pinterest
 ```
 
 * Opens real browser
